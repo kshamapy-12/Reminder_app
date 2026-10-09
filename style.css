@@ -1,0 +1,17 @@
+.main{
+    display: none;
+}
+
+
+.card{
+    display: inherit;
+}
+svg.lucide {
+      width: 22px;
+      height: 26px;
+    }
+    /* .card-stack{
+        display: grid;
+        grid-template-areas: stack;
+        place-items: center;
+    } */
